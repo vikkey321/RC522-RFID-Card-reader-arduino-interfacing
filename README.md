@@ -2,13 +2,5 @@
 
 Make Connections Like this:
 
-RC522      ARDUINO
-3.3V    -  3.3V
-RST     -  9
-GND     -  GND
-IRQ     -  NC
-MISO    -  12
-MOSI    -  11
-SCK     -  13
-SDA     -  10
+![Alt text](https://i.pinimg.com/originals/02/4b/09/024b0915345f16a6ce2712d73ee57bd9.png)
 
